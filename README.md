@@ -1,7 +1,9 @@
 # ImageHosting
 Github + jsDeliver + PicGo + Imagine
 
+```
 https://cdn.jsdelivr.net/gh/{user}/{repo}/{file}
+```
 
 ## PicGo
 
