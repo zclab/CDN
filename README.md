@@ -1,2 +1,2 @@
-# CDN
-jsDeliver
+# ImageHosting
+Github + jsDeliver + PicGo
