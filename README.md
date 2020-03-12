@@ -1,7 +1,11 @@
 # ImageHosting
-Github + jsDeliver + PicGo
+Github + jsDeliver + PicGo + Imagine
 
 ## PicGo
 
 [PicGo下载](https://github.com/Molunerfinn/PicGo/releases)
+
+## Imagine
+
+[Imagine下载](https://github.com/meowtec/Imagine/releases)
 
