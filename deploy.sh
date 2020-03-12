@@ -29,7 +29,6 @@ function export_file_path(){
         ff=$1"/"$file
         if [ -d $ff ]
         then
-            echo "## ddd" >> "README.md"
             export_file_path $ff
         else
             echo ${jslink}${ff:1} >> "README.md"
