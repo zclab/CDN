@@ -3,5 +3,5 @@ Github + jsDeliver + PicGo
 
 ## PicGo
 
-![PicGo下载](https://github.com/Molunerfinn/PicGo/releases)
+[PicGo下载](https://github.com/Molunerfinn/PicGo/releases)
 
