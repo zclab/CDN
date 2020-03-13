@@ -1,4 +1,6 @@
 
+exclude=("sh","md")
+
 function make_readme(){
     echo "# CDN" >> "README.md"
     echo "" >> "README.md"
@@ -29,7 +31,11 @@ function export_file_path(){
         if [ -d $ff ]; then
             export_file_path $ff
         else
-            echo ${jslink}${ff:1} >> "README.md"
+            if echo "${exclude[@]}" | grep -w "$file" &>/dev/null || echo "${exclude[@]}" | grep -w "${file##*.}" &>/dev/null; then
+                echo "${file} not export to reademe!"
+            else
+                echo ${jslink}${ff:1} >> "README.md"
+            fi
         fi
     done
 }

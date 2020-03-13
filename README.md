@@ -12,7 +12,6 @@ Github + jsDeliver + PicGo + Imagine
 
 ## jsDelivr链接
 
-https://cdn.jsdelivr.net/gh/smithcloud/CDN/README.md
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/avatar/avatar.png
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/favicon/favicon.ico
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/bg/multieqnbkgd.png
@@ -63,4 +62,3 @@ https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/canvas-ribbon.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/click_heart.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/fireworks.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js
-https://cdn.jsdelivr.net/gh/smithcloud/CDN/make.sh
