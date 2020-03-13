@@ -24,11 +24,9 @@ function push_to_github(){
 
 function export_file_path(){
     jslink="https://cdn.jsdelivr.net/gh/smithcloud/CDN"
-    for file in `ls $1`
-    do
+    for file in `ls $1`; do
         ff=$1"/"$file
-        if [ -d $ff ]
-        then
+        if [ -d $ff ]; then
             export_file_path $ff
         else
             echo ${jslink}${ff:1} >> "README.md"

@@ -52,4 +52,5 @@ https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/canvas-ribbon.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/click_heart.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/fireworks.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js
-https://cdn.jsdelivr.net/gh/smithcloud/CDN/deploy.sh
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/test.md
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/make.sh
