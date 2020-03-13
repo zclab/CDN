@@ -42,7 +42,18 @@ https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/time_management.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/version
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/control.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/wordpress.svg
-https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/hope1.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/1.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/10.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/11.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/12.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/2.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/3.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/4.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/5.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/6.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/7.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/8.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/9.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/pic01.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/pic02.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/pic03.jpg
@@ -52,5 +63,4 @@ https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/canvas-ribbon.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/click_heart.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/fireworks.js
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js
-https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/test.md
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/make.sh
