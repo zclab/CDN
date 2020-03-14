@@ -1,5 +1,5 @@
 
-exclude=("sh","md")
+exclude=("sh" "md")
 
 function make_readme(){
     echo "# CDN" >> "README.md"
