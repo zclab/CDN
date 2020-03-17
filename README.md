@@ -31,6 +31,7 @@ https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/blue.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/fresh_notification.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/gitlab.png
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/markdown.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/mermaid.png
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/personal_documents.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/progressive_app.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/python.jpg
