@@ -14,6 +14,13 @@ Github + jsDeliver + PicGo + Imagine
 
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/avatar/avatar.png
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/favicon/favicon.ico
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/404.svg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/astronaut.svg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/bg_purple.png
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/earth.svg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/moon.svg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/overlay_stars.svg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/rocket.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/bg/multieqnbkgd.png
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/Graduation.svg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/adventure.svg
