@@ -55,6 +55,7 @@ https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/1.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/10.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/11.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/12.jpg
+https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/13.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/2.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/3.jpg
 https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/4.jpg
