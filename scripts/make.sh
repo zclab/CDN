@@ -1,0 +1,1 @@
+python ./scripts/build_directory_md.py &> DIRECTORY.md
