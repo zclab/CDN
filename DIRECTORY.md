@@ -15,6 +15,8 @@
       * [Rocket](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/404/rocket.svg)
     * Bg
       * [Multieqnbkgd](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/bg/multieqnbkgd.png)
+    * Book
+      * [Pattern Recognition And Machine Learning](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/book/pattern_recognition_and_machine_learning.jpg)
     * Cover
       * [Graduation](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/Graduation.svg)
       * [Adventure](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/adventure.svg)
