@@ -13,5 +13,5 @@ Github + jsDeliver + PicGo + Imagine
 
 ## Directory
 
-[Directory](./Directory.md)
+[Directory](./DIRECTORY.md)
 
