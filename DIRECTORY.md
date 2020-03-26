@@ -16,6 +16,7 @@
     * Bg
       * [Multieqnbkgd](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/bg/multieqnbkgd.png)
     * Book
+      * [Gaussian Processes For Machine Learning](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/book/gaussian_processes_for_machine_learning.png)
       * [Pattern Recognition And Machine Learning](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/book/pattern_recognition_and_machine_learning.jpg)
     * Cover
       * [Graduation](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/Graduation.svg)
