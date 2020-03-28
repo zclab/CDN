@@ -62,6 +62,8 @@
       * [Pic01](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/pic01.jpg)
       * [Pic02](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/pic02.jpg)
       * [Pic03](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/home/pic03.jpg)
+    * Stat
+      * [Em](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/stat/em.jpg)
     * Web
       * [0](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/web/0.jpg)
       * [1](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/web/1.jpg)
