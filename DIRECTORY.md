@@ -110,3 +110,6 @@
     * [Click Heart](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/click_heart.js)
     * [Fireworks](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/fireworks.js)
     * [Piao](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js)
+
+## Notebook
+  * [Pytorch](https://cdn.jsdelivr.net/gh/smithcloud/CDN/notebook/pytorch.png)
