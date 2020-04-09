@@ -109,6 +109,7 @@
     * [Canvas-Ribbon](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/canvas-ribbon.js)
     * [Click Heart](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/click_heart.js)
     * [Fireworks](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/fireworks.js)
+    * [Linkcard](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/linkcard.js)
     * [Piao](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js)
 
 ## Notebook
