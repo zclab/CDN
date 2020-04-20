@@ -116,4 +116,5 @@
     * [Piao](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js)
 
 ## Notebook
-  * [Pytorch](https://cdn.jsdelivr.net/gh/smithcloud/CDN/notebook/pytorch.png)
+  * Pytorch
+    * [Pytorch](https://cdn.jsdelivr.net/gh/smithcloud/CDN/notebook/pytorch/pytorch.png)
