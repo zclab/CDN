@@ -37,6 +37,7 @@
       * [Personal Documents](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/personal_documents.svg)
       * [Progressive App](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/progressive_app.svg)
       * [Python](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/python.jpg)
+      * [Python2](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/python2.jpg)
       * [Science](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/science.svg)
       * [Skateboard](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/skateboard.svg)
       * [Snow Games](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/images/cover/snow_games.svg)
