@@ -118,5 +118,7 @@
     * [Piao](https://cdn.jsdelivr.net/gh/smithcloud/CDN/blog/js/piao.js)
 
 ## Notebook
+  * Optimization
+    * [Nonconvex Surface](https://cdn.jsdelivr.net/gh/smithcloud/CDN/notebook/optimization/nonconvex_surface.png)
   * Pytorch
     * [Pytorch](https://cdn.jsdelivr.net/gh/smithcloud/CDN/notebook/pytorch/pytorch.png)
