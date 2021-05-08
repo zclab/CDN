@@ -1,17 +1,14 @@
 # CDN
 
-Github + jsDeliver + PicGo + Imagine
-
-## PicGo
-
-[PicGo下载](https://github.com/Molunerfinn/PicGo/releases)
-
-## Imagine
-
-[Imagine下载](https://github.com/meowtec/Imagine/releases)
-
+Using Github + jsDeliver to host pic.
 
 ## Directory
 
-[Directory](./DIRECTORY.md)
+[Files Directory](./DIRECTORY.md)
+
+## PicGo && Imageine Download
+
+* [PicGo下载](https://github.com/Molunerfinn/PicGo/releases)
+
+* [Imagine下载](https://github.com/meowtec/Imagine/releases)
 
