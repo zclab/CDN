@@ -1,13 +1,14 @@
 import os
 from typing import Iterator
 
-URL_BASE = "https://cdn.jsdelivr.net/gh/smithcloud/CDN"
+URL_BASE = "https://cdn.jsdelivr.net/gh/zclab/CDN"
 allowed_file_suffix = (".ico", ".png", ".jpg", ".svg", ".js")
 
 
 def good_file_paths(top_dir: str = ".") -> Iterator[str]:
     for dir_path, dir_names, filenames in os.walk(top_dir):
-        dir_names[:] = [d for d in dir_names if d != "scripts" and d[0] not in "._"]
+        dir_names[:] = [d for d in dir_names if d !=
+                        "scripts" and d[0] not in "._"]
         for filename in filenames:
             if filename == "__init__.py":
                 continue
