@@ -24,7 +24,7 @@ keywords = "LaTeX, TikZ, graphics, favorites"
 bodybgcolor = "#f9f9f9"
 
 # Preview container button text
-buttontext = "Check the code on GitHub"
+buttontext = "Check the image on GitHub"
 
 # Footer text
 footertext = "Template made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [Aerohub](https://github.com/aerohub)"

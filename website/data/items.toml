@@ -1,1 +1,984 @@
+[[items]]
+title = "0.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/0.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/0.jpg"
+alt= "0.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/0.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/0.jpg/"
+
+[[items]]
+title = "1.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/1.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/1.jpg"
+alt= "1.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/1.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/1.jpg/"
+
+[[items]]
+title = "1.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/1.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/1.jpg"
+alt= "1.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/1.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/1.jpg/"
+
+[[items]]
+title = "1.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/background/1.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/background/1.png"
+alt= "1.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/background/1.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/background/1.png/"
+
+[[items]]
+title = "1.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/1.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/1.png"
+alt= "1.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/1.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/1.png/"
+
+[[items]]
+title = "10.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/10.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/10.jpg"
+alt= "10.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/10.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/10.jpg/"
+
+[[items]]
+title = "10.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/10.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/10.jpg"
+alt= "10.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/10.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/10.jpg/"
+
+[[items]]
+title = "10.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/10.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/10.png"
+alt= "10.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/10.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/10.png/"
+
+[[items]]
+title = "11.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/11.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/11.jpg"
+alt= "11.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/11.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/11.jpg/"
+
+[[items]]
+title = "11.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/11.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/11.jpg"
+alt= "11.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/11.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/11.jpg/"
+
+[[items]]
+title = "11.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/11.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/11.png"
+alt= "11.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/11.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/11.png/"
+
+[[items]]
+title = "12.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/12.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/12.jpg"
+alt= "12.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/12.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/12.jpg/"
+
+[[items]]
+title = "12.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/12.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/12.jpg"
+alt= "12.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/12.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/12.jpg/"
+
+[[items]]
+title = "12.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/12.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/12.png"
+alt= "12.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/12.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/12.png/"
+
+[[items]]
+title = "13.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/13.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/13.jpg"
+alt= "13.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/13.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/13.jpg/"
+
+[[items]]
+title = "13.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/13.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/13.jpg"
+alt= "13.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/13.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/13.jpg/"
+
+[[items]]
+title = "13.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/13.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/13.png"
+alt= "13.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/13.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/13.png/"
+
+[[items]]
+title = "14.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/14.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/14.jpg"
+alt= "14.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/14.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/14.jpg/"
+
+[[items]]
+title = "14.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/14.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/14.jpg"
+alt= "14.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/14.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/14.jpg/"
+
+[[items]]
+title = "14.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/14.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/14.png"
+alt= "14.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/14.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/14.png/"
+
+[[items]]
+title = "15.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/15.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/15.jpg"
+alt= "15.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/15.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/15.jpg/"
+
+[[items]]
+title = "15.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/15.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/15.jpg"
+alt= "15.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/15.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/15.jpg/"
+
+[[items]]
+title = "15.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/15.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/15.png"
+alt= "15.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/15.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/15.png/"
+
+[[items]]
+title = "16.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/16.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/16.jpg"
+alt= "16.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/16.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/16.jpg/"
+
+[[items]]
+title = "16.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/16.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/16.png"
+alt= "16.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/16.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/16.png/"
+
+[[items]]
+title = "17.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/17.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/17.jpg"
+alt= "17.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/17.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/17.jpg/"
+
+[[items]]
+title = "17.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/17.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/17.png"
+alt= "17.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/17.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/17.png/"
+
+[[items]]
+title = "18.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/18.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/18.jpg"
+alt= "18.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/18.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/18.jpg/"
+
+[[items]]
+title = "19.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/19.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/19.jpg"
+alt= "19.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/19.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/19.jpg/"
+
+[[items]]
+title = "19.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/19.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/19.png"
+alt= "19.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/19.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/19.png/"
+
+[[items]]
+title = "2.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/2.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/2.jpg"
+alt= "2.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/2.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/2.jpg/"
+
+[[items]]
+title = "2.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/2.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/2.jpg"
+alt= "2.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/2.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/2.jpg/"
+
+[[items]]
+title = "2.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/2.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/2.png"
+alt= "2.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/2.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/2.png/"
+
+[[items]]
+title = "20.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/20.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/20.jpg"
+alt= "20.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/20.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/20.jpg/"
+
+[[items]]
+title = "20.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/20.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/20.png"
+alt= "20.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/20.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/20.png/"
+
+[[items]]
+title = "21.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/21.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/21.jpg"
+alt= "21.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/21.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/21.jpg/"
+
+[[items]]
+title = "21.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/21.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/21.png"
+alt= "21.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/21.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/21.png/"
+
+[[items]]
+title = "22.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/22.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/22.jpg"
+alt= "22.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/22.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/22.jpg/"
+
+[[items]]
+title = "22.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/22.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/22.png"
+alt= "22.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/22.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/22.png/"
+
+[[items]]
+title = "23.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/23.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/23.jpg"
+alt= "23.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/23.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/23.jpg/"
+
+[[items]]
+title = "23.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/23.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/23.png"
+alt= "23.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/23.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/23.png/"
+
+[[items]]
+title = "24.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/24.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/24.jpg"
+alt= "24.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/24.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/24.jpg/"
+
+[[items]]
+title = "24.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/24.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/24.png"
+alt= "24.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/24.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/24.png/"
+
+[[items]]
+title = "25.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/25.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/25.jpg"
+alt= "25.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/25.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/25.jpg/"
+
+[[items]]
+title = "25.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/25.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/25.png"
+alt= "25.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/25.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/25.png/"
+
+[[items]]
+title = "26.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/26.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/26.jpg"
+alt= "26.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/26.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/26.jpg/"
+
+[[items]]
+title = "26.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/26.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/26.png"
+alt= "26.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/26.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/26.png/"
+
+[[items]]
+title = "27.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/27.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/27.jpg"
+alt= "27.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/27.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/27.jpg/"
+
+[[items]]
+title = "28.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/28.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/28.jpg"
+alt= "28.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/28.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/28.jpg/"
+
+[[items]]
+title = "29.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/29.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/29.jpg"
+alt= "29.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/29.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/29.jpg/"
+
+[[items]]
+title = "3.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/3.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/3.jpg"
+alt= "3.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/3.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/3.jpg/"
+
+[[items]]
+title = "3.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/3.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/3.jpg"
+alt= "3.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/3.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/3.jpg/"
+
+[[items]]
+title = "3.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/3.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/3.png"
+alt= "3.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/3.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/3.png/"
+
+[[items]]
+title = "30.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/30.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/30.jpg"
+alt= "30.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/30.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/30.jpg/"
+
+[[items]]
+title = "31.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/31.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/31.jpg"
+alt= "31.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/31.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/31.jpg/"
+
+[[items]]
+title = "32.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/32.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/32.jpg"
+alt= "32.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/32.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/32.jpg/"
+
+[[items]]
+title = "33.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/33.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/33.jpg"
+alt= "33.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/33.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/33.jpg/"
+
+[[items]]
+title = "34.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/34.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/34.jpg"
+alt= "34.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/34.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/34.jpg/"
+
+[[items]]
+title = "35.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/35.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/35.jpg"
+alt= "35.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/35.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/35.jpg/"
+
+[[items]]
+title = "36.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/36.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/36.jpg"
+alt= "36.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/36.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/36.jpg/"
+
+[[items]]
+title = "37.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/37.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/37.jpg"
+alt= "37.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/37.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/37.jpg/"
+
+[[items]]
+title = "4.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/4.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/4.jpg"
+alt= "4.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/4.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/4.jpg/"
+
+[[items]]
+title = "4.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/4.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/4.jpg"
+alt= "4.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/4.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/4.jpg/"
+
+[[items]]
+title = "4.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/4.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/4.png"
+alt= "4.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/4.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/4.png/"
+
+[[items]]
+title = "5.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/5.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/5.jpg"
+alt= "5.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/5.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/5.jpg/"
+
+[[items]]
+title = "5.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/5.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/5.jpg"
+alt= "5.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/5.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/5.jpg/"
+
+[[items]]
+title = "5.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/5.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/5.png"
+alt= "5.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/5.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/5.png/"
+
+[[items]]
+title = "6.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/6.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/6.jpg"
+alt= "6.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/6.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/6.jpg/"
+
+[[items]]
+title = "6.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/6.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/6.jpg"
+alt= "6.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/6.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/6.jpg/"
+
+[[items]]
+title = "6.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/6.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/6.png"
+alt= "6.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/6.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/6.png/"
+
+[[items]]
+title = "7.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/7.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/7.jpg"
+alt= "7.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/7.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/7.jpg/"
+
+[[items]]
+title = "7.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/7.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/7.jpg"
+alt= "7.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/7.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/7.jpg/"
+
+[[items]]
+title = "7.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/7.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/7.png"
+alt= "7.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/7.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/7.png/"
+
+[[items]]
+title = "8.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/8.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/8.jpg"
+alt= "8.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/8.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/8.jpg/"
+
+[[items]]
+title = "8.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/8.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/8.jpg"
+alt= "8.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/8.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/8.jpg/"
+
+[[items]]
+title = "8.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/8.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/8.png"
+alt= "8.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/8.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/8.png/"
+
+[[items]]
+title = "9.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/9.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/9.jpg"
+alt= "9.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/9.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/9.jpg/"
+
+[[items]]
+title = "9.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/9.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/9.jpg"
+alt= "9.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/web/9.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/web/9.jpg/"
+
+[[items]]
+title = "9.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/9.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/9.png"
+alt= "9.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/9.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/9.png/"
+
+[[items]]
+title = "attention-softmax.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/attention-softmax.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/attention-softmax.png"
+alt= "attention-softmax.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/attention-softmax.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/attention-softmax.png/"
+
+[[items]]
+title = "avatar.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/avatar/avatar.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/avatar/avatar.png"
+alt= "avatar.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/avatar/avatar.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/avatar/avatar.png/"
+
+[[items]]
+title = "bash.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/bash.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/bash.jpg"
+alt= "bash.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/bash.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/bash.jpg/"
+
+[[items]]
+title = "bg_purple.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/404/bg_purple.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/404/bg_purple.png"
+alt= "bg_purple.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/404/bg_purple.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/404/bg_purple.png/"
+
+[[items]]
+title = "cicd.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/cicd.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/cicd.jpg"
+alt= "cicd.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/cicd.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/cicd.jpg/"
+
+[[items]]
+title = "em.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/stat/em.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/stat/em.jpg"
+alt= "em.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/stat/em.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/stat/em.jpg/"
+
+[[items]]
+title = "encoder-block.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/encoder-block.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/encoder-block.png"
+alt= "encoder-block.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/encoder-block.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/encoder-block.png/"
+
+[[items]]
+title = "encoder.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/encoder.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/encoder.png"
+alt= "encoder.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/encoder.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/encoder.png/"
+
+[[items]]
+title = "gaussian_processes_for_machine_learning.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/book/gaussian_processes_for_machine_learning.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/book/gaussian_processes_for_machine_learning.png"
+alt= "gaussian_processes_for_machine_learning.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/book/gaussian_processes_for_machine_learning.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/book/gaussian_processes_for_machine_learning.png/"
+
+[[items]]
+title = "gitlab.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/gitlab.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/gitlab.png"
+alt= "gitlab.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/gitlab.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/gitlab.png/"
+
+[[items]]
+title = "markdown.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/markdown.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/markdown.jpg"
+alt= "markdown.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/markdown.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/markdown.jpg/"
+
+[[items]]
+title = "masked-encoder-decoder-attention.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-encoder-decoder-attention.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-encoder-decoder-attention.png"
+alt= "masked-encoder-decoder-attention.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-encoder-decoder-attention.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/masked-encoder-decoder-attention.png/"
+
+[[items]]
+title = "masked-self-attention-1.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-self-attention-1.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-self-attention-1.png"
+alt= "masked-self-attention-1.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-self-attention-1.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/masked-self-attention-1.png/"
+
+[[items]]
+title = "masked-self-attention-2.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-self-attention-2.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-self-attention-2.png"
+alt= "masked-self-attention-2.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/masked-self-attention-2.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/masked-self-attention-2.png/"
+
+[[items]]
+title = "matrix-calculation.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/matrix-calculation.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/matrix-calculation.png"
+alt= "matrix-calculation.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/matrix-calculation.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/matrix-calculation.png/"
+
+[[items]]
+title = "mermaid.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/mermaid.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/mermaid.png"
+alt= "mermaid.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/mermaid.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/mermaid.png/"
+
+[[items]]
+title = "multi-head-attention-demo.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/multi-head-attention-demo.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/multi-head-attention-demo.png"
+alt= "multi-head-attention-demo.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/multi-head-attention-demo.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/multi-head-attention-demo.png/"
+
+[[items]]
+title = "multi-head-attention.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/multi-head-attention.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/multi-head-attention.png"
+alt= "multi-head-attention.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/multi-head-attention.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/multi-head-attention.png/"
+
+[[items]]
+title = "multieqnbkgd.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/bg/multieqnbkgd.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/bg/multieqnbkgd.png"
+alt= "multieqnbkgd.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/bg/multieqnbkgd.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/bg/multieqnbkgd.png/"
+
+[[items]]
+title = "nonconvex_surface.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/optimization/nonconvex_surface.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/optimization/nonconvex_surface.png"
+alt= "nonconvex_surface.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/optimization/nonconvex_surface.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/optimization/nonconvex_surface.png/"
+
+[[items]]
+title = "normalization.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/normalization.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/normalization.png"
+alt= "normalization.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/normalization.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/normalization.png/"
+
+[[items]]
+title = "padding-mask.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/padding-mask.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/padding-mask.png"
+alt= "padding-mask.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/padding-mask.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/padding-mask.png/"
+
+[[items]]
+title = "pathlib.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/pathlib.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/pathlib.png"
+alt= "pathlib.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/pathlib.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/pathlib.png/"
+
+[[items]]
+title = "pattern_recognition_and_machine_learning.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/book/pattern_recognition_and_machine_learning.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/book/pattern_recognition_and_machine_learning.jpg"
+alt= "pattern_recognition_and_machine_learning.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/book/pattern_recognition_and_machine_learning.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/book/pattern_recognition_and_machine_learning.jpg/"
+
+[[items]]
+title = "pic01.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic01.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic01.jpg"
+alt= "pic01.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic01.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/pic01.jpg/"
+
+[[items]]
+title = "pic02.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic02.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic02.jpg"
+alt= "pic02.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic02.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/pic02.jpg/"
+
+[[items]]
+title = "pic03.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic03.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic03.jpg"
+alt= "pic03.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/home/pic03.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/home/pic03.jpg/"
+
+[[items]]
+title = "positional-encoding.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/positional-encoding.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/positional-encoding.png"
+alt= "positional-encoding.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/positional-encoding.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/positional-encoding.png/"
+
+[[items]]
+title = "python.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python.jpg"
+alt= "python.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/python.jpg/"
+
+[[items]]
+title = "python2.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python2.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python2.jpg"
+alt= "python2.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python2.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/python2.jpg/"
+
+[[items]]
+title = "python3.jpg"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python3.jpg"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python3.jpg"
+alt= "python3.jpg"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/images/cover/python3.jpg"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/images/cover/python3.jpg/"
+
+[[items]]
+title = "pytorch.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/pytorch/pytorch.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/pytorch/pytorch.png"
+alt= "pytorch.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/pytorch/pytorch.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/pytorch/pytorch.png/"
+
+[[items]]
+title = "self-attention-3.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/self-attention-3.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/self-attention-3.png"
+alt= "self-attention-3.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/self-attention-3.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/self-attention-3.png/"
+
+[[items]]
+title = "sinusoidal-function.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/sinusoidal-function.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/sinusoidal-function.png"
+alt= "sinusoidal-function.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/sinusoidal-function.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/sinusoidal-function.png/"
+
+[[items]]
+title = "transformer-demo.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer-demo.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer-demo.png"
+alt= "transformer-demo.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer-demo.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/transformer-demo.png/"
+
+[[items]]
+title = "transformer-structure.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer-structure.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer-structure.png"
+alt= "transformer-structure.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer-structure.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/transformer-structure.png/"
+
+[[items]]
+title = "transformer.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer.png"
+alt= "transformer.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/blog/posts/transformer/transformer.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/blog/posts/transformer/transformer.png/"
+
+[[items]]
+title = "tsne-flow.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne-flow.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne-flow.png"
+alt= "tsne-flow.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne-flow.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne-flow.png/"
+
+[[items]]
+title = "tsne1.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne1.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne1.png"
+alt= "tsne1.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne1.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne1.png/"
+
+[[items]]
+title = "tsne2.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne2.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne2.png"
+alt= "tsne2.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne2.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne2.png/"
+
+[[items]]
+title = "tsne3.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne3.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne3.png"
+alt= "tsne3.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne3.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne3.png/"
+
+[[items]]
+title = "tsne4.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne4.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne4.png"
+alt= "tsne4.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne4.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne4.png/"
+
+[[items]]
+title = "tsne5.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne5.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne5.png"
+alt= "tsne5.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne5.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne5.png/"
+
+[[items]]
+title = "tsne6.png"
+image = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne6.png"
+thumb = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne6.png"
+alt= "tsne6.png"
+description = "https://cdn.jsdelivr.net/gh/zclab/cdn/cdn/notebook/tSNE/tsne6.png"
+url = "https://github.com/zclab/cdn/blob/master/cdn/notebook/tSNE/tsne6.png/"
 
