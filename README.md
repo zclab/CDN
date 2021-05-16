@@ -2,9 +2,6 @@
 
 Using Github + jsDeliver to host pic.
 
-## Directory
-
-[Files Directory](./DIRECTORY.md)
 
 ## PicGo && Imageine Download
 
