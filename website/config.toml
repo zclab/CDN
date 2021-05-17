@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://zclab.github.io/cdn/"
+baseurl = "https://zclab.github.io/CDN/"
 languageCode = "en-us"
 title = "My Collected Picture Library"
 themesDir = "./themes/"
