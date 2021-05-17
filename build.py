@@ -2,7 +2,7 @@
 import subprocess
 from scripts.website_data import GenerateWebsiteData
 
-src_dir = "cdn"
+src_dir = "images"
 rep_url = "https://github.com/zclab/cdn/"
 img_url = "https://cdn.jsdelivr.net/gh/zclab/cdn/"
 
