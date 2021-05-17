@@ -3,17 +3,16 @@ import os
 from pathlib import Path
 
 
-class FileRename:
-
-    def __init__(self, src_dir) -> None:
-        self.src_dir = src_dir
-
-    def rename_all_files(self, *suffix):
-        suffix = (".png", ".jpg", ".svg", ".ico") if not(suffix) else suffix
-
-        for root, dirs, files in os.walk(self.src_dir):
-            for f in files:
-                file = Path(root) / f
-                if file.suffix in suffix:
-                    new_name = Path(root) / "_".join(file.parts)
-                    os.rename(file, new_name)
+def rename_all_files(src_dir):
+    """容易出现覆盖已存在的文件的问题
+    """
+    for root, dirs, files in os.walk(src_dir):
+        count, files = 0, sorted(files)
+        for f in files:
+            file = Path(root) / f
+            if file.suffix in (".png", ".jpg", ".gif", ".ico", ".svg"):
+                count += 1
+                prefix = str(file.parent).replace("/", "_")
+                new_name = str(file.with_name(
+                    "{}_{:04d}{}".format(prefix, count, file.suffix)))
+                os.rename(str(file), new_name)

@@ -13,9 +13,8 @@ args = parser.parse_args()
 
 if args.rename_file:
     print("---------- Rename all the files -------------")
-    from scripts.file_rename import FileRename
-    fr = FileRename(src_dir)
-    fr.rename_all_files()
+    from scripts.file_rename import rename_all_files
+    rename_all_files(src_dir)
 
 webdata = GenerateWebsiteData(
     src_dir, rep_url, img_url, branch="master")
