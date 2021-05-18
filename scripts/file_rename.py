@@ -1,18 +1,27 @@
 
 import os
+import re
 from pathlib import Path
 
 
-def rename_all_files(src_dir):
-    """容易出现覆盖已存在的文件的问题
-    """
+def rename_all_files(src_dir, *suffixes):
+
     for root, dirs, files in os.walk(src_dir):
-        count, files = 0, sorted(files)
+        root_path = Path(root).resolve()
+        prefix = root_path.parts[-1]
+
+        pat, pated_files, unpated_files = r"^%s_\d{3}$" % prefix, [], []
         for f in files:
-            file = Path(root) / f
-            if file.suffix in (".png", ".jpg", ".gif", ".ico", ".svg"):
+            if Path(f).suffix in suffixes:
+                if re.match(pat, Path(f).stem):
+                    pated_files.append(f)
+                else:
+                    unpated_files.append(f)
+
+        count = len(pated_files) + 1
+        for f in unpated_files:
+            file = root_path / f
+            if file.suffix in suffixes:
+                os.rename(file, file.with_name(
+                    "{}_{:03d}{}".format(prefix, count, file.suffix)))
                 count += 1
-                prefix = str(file.parent).replace("/", "_")
-                new_name = str(file.with_name(
-                    "{}_{:04d}{}".format(prefix, count, file.suffix)))
-                os.rename(str(file), new_name)
