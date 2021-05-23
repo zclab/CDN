@@ -27,7 +27,7 @@ class GenerateWebsiteData:
         image = self.img_url + str(file)
         url = self.rep_url + "blob/{}/{}/".format(self.branch, file)
 
-        return file.name, image, image, file.name, image, url
+        return file.name, image, image, file.name, image, image  # url
 
     def generate_all_items_toml(self, *suffix, output_file):
 
